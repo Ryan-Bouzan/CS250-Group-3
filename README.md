@@ -1,6 +1,5 @@
-# CS250-Group-3
-Software Design Specification Assignment
-
+# Software Design Specification Assignment
+CS250-Group-3
 Theatre Ticketing System
 
 Prepared by: Andrea Abed, Diana Yousefnejad, Thomas Comeau, Carlos Lopez, & Ryan Bouzan
